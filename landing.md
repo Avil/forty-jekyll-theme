@@ -1,8 +1,8 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Learn our history.'
+image: assets/images/Dagger_Photo_4.png
 nav-menu: true
 ---
 
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>The Alliance Navy is a gaming community boasting a 14 year history (as of 2019). We specialize in military and tactical shooters, sci-fi games, and have a particular love for anything where we have an opportunity to build and craft.</p>
 	</div>
 </section>
 
@@ -44,9 +44,14 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>We are…</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul>
+					<li>Adults ages 18-35</li>
+					<li>Mil-Sim enthusiasts, sci-fi fans, hobbyists, and everyday gamers</li>
+					<li>Working professionals, tradesmen, soldiers, sailors, parents, and students.</li>
+					<li>Americans, Canadians, and Europeans</li>
+				</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
